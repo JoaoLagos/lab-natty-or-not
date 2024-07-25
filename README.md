@@ -7,7 +7,7 @@ Galactic News Network (GNN) é um projeto inovador que utiliza diversas IAs gene
 
 **Para o desenvolvimento do projeto, foram utilizadas as seguintes IAs:**
 
-- **ChatGPT:** Utilizei o ChatGPT para criar o roteiro do telejornal, incluindo as falas do jornalista e a estrutura das notícias. A IA ajudou a moldar a narrativa e garantir um fluxo coeso para o programa.
+- **ChatGPT:** Utilizei o ChatGPT para criar o roteiro do telejornal, incluindo as falas do jornalista e a estrutura das notícias, bem como na criação dos próprios READMEs presentes no referido repositório. A IA ajudou a moldar a narrativa, garantir um fluxo coeso para o programa e melhorar a organização do projeto.
 
 - **ElevenLabs:** Com a ferramenta ElevenLabs, fiz a conversão de texto para fala (Text To Speech) para criar as falas do jornalista, e também extraí o áudio de vídeos para inclusão no projeto.
 
@@ -29,6 +29,8 @@ Em seguida, passei para o InVideo, onde combinei os áudios com elementos visuai
 Para os efeitos sonoros, recorri ao Pixabay, obtendo a vinheta inicial da logo do GNN. A logo em si foi criada com a Leonardo AI, e sua animação foi feita com a RunWay, completando assim todos os elementos do telejornal.
 
 ## 🚀 Resultado
+
+**[CLIQUE AQUI](https://www.capcut.com/s/CQrrbZCPdpU02H4t/) ou na IMAGEM abaixo para ver o vídeo.**
 
 [![CLIQUE AQUI PARA VER O VÍDEO](https://github.com/JoaoLagos/lab-natty-or-not/blob/main/assets/Logo.jpg)](https://www.capcut.com/s/CQrrbZCPdpU02H4t/)
 
