@@ -30,9 +30,7 @@ Para os efeitos sonoros, recorri ao Pixabay, obtendo a vinheta inicial da logo d
 
 ## 🚀 Resultado
 
-https://github.com/SeuRepositorio/GNN/assets/SeuIDDoVideo
-
-Para assistir o vídeo em melhor qualidade [clique aqui.](https://www.capcut.com/s/CQrrbZCPdpU02H4t/)
+[![CLIQUE AQUI PARA VER O VÍDEO](https://github.com/JoaoLagos/lab-natty-or-not/blob/main/assets/Logo.jpg)](https://www.capcut.com/s/CQrrbZCPdpU02H4t/)
 
 ## 💭 Reflexão
 Criar e deixar a criatividade fluir por meio das IAs generativas tem sido extremamente gratificante. Sempre adorei produzir conteúdos, mas enfrentava muitas limitações. Com a tecnologia de IA, consegui quebrar essas barreiras, o que representou uma verdadeira revolução para minha persona criativa. Além de facilitar a materialização das ideias, as IAs proporcionam novas perspectivas e possibilidades, ampliando o horizonte de criação. Essa inovação não só potencializa a criatividade individual, mas também transforma a maneira como nos expressamos e interagimos com o mundo.
